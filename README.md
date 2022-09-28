@@ -1,4 +1,5 @@
 # WI_Business_Analysis
+<b> Applied Excel. </b>
 
 ## Data and Project Goal 
 Wisconsin is the nation's leading producer of cranberries, harvesting more than 60 percent of the country's crop. The dataset includes 1980-2020 cranberry growth and sales data in Wisconsin, Oregon, New Jersey, and Massachusetts. The project applied Excel to analyze and visualize cranberry business data for economic decisions. 
